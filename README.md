@@ -4,8 +4,7 @@
 Data Source: https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection
 
 Project Guidance:
-
-Dr. Bhupinder Singh Kirar
+         Dr. Bhupendra Singh Kirar
  
 Comtribution by:
 
