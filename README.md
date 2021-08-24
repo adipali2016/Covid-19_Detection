@@ -1,7 +1,7 @@
 # COVID Detection
 
 
-Data Source: https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection
+Data Source: https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
 
 Project Guidance:
          Dr. Bhupendra Singh Kirar
